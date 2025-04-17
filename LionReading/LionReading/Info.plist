@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppTransportSecurity</key>
+	<dict/>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Need to have full access to your calendar in order to add the records of your book reading completion.</string>
+</dict>
+</plist>
